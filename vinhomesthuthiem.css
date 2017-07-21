@@ -493,7 +493,7 @@ div.post-content h2,.post-title{font-weight:bold}
 
 
 .post-title,.post-title a,.ico16:before {
-color: #e74c3c!important;
+color: #F7D6D4!important;
 }
 
 .post-body { padding: 0;    margin:0;   word-wrap:break-word;  }
@@ -621,7 +621,7 @@ text-decoration: none !important;
 white-space: nowrap;
 margin: 0 5px 5px 0;
 padding: 7px 10px;
-background: #e74c3c;
+background: #F7D6D4;
 /*background:#2c3e50;*/
 overflow: hidden;
 font-weight: 300;
@@ -787,7 +787,7 @@ Footer CSS
 background: #2c3e50;
 width: 100%;
 color: #FFFFFF;
-border-top: 5px solid #e74c3c;
+border-top: 5px solid #F7D6D4;
 border-bottom: 1px solid #27282E;
 font-weight:light;
 }

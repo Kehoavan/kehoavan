@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>Kệ Hoa Văn Trang Trí Giá Rẻ. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://lh3.googleusercontent.com/-7LLo5e8kgiI/WXRbRbhbapI/AAAAAAAAACc/5k2E5wY2xlECAKNyirORBhvTSRs7MmdYQCL0BGAs/w530-d-h687-p-rw/banner-ke-hoa-van-trang-tri.png' width='500px'/><br/>Kệ Hoa Văn Trang Trí Giá Rẻ. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
